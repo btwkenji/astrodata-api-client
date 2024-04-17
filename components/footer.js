@@ -23,7 +23,7 @@ const Footer = () => {
             </span>
             <IconButton
                 as="a"
-                href="https://github.com/kenjitheman/projx.c"
+                href="https://github.com/nezutero/astrodata-api"
                 target="_blank"
                 variant="ghost"
                 aria-label="GitHub"

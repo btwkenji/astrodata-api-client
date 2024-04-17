@@ -76,7 +76,7 @@ const Navbar = (props) => {
                     ml={"25%"}
                 >
 
-                    <LinkItem href="https://github.com/kenjitheman/wdcg_api" path={path}>
+                    <LinkItem href="https://github.com/nezutero/astrodata-api" path={path}>
                         Get API
                     </LinkItem>
 
@@ -100,7 +100,7 @@ const Navbar = (props) => {
                                 aria-label="Options"
                             />
                             <MenuList>
-                                <MenuItem as={MenuLink} href="https://github.com/kenjitheman/wdcg_api" ml={1}>
+                                <MenuItem as={MenuLink} href="https://github.com/nezutero/astrodata-api" ml={1}>
                                     Get API
                                 </MenuItem>
                                 <MenuItem as={MenuLink} href="/about" ml={1} >
